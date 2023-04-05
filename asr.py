@@ -15,9 +15,9 @@ from urllib.error import URLError
 from urllib.parse import urlencode
 timer = time.perf_counter
 
-
-API_KEY = 'lnHRLjeNSwcbPX9CqZYjFrIq'
-SECRET_KEY = 'bcjraeZGlq9Gx8yg5t8H3anfhF2ikGfM'
+#百度api
+API_KEY = ''
+SECRET_KEY = ''
 
 # 需要识别的文件
 AUDIO_FILE = ''  # 只支持 pcm/wav/amr 格式，极速版额外支持m4a 格式

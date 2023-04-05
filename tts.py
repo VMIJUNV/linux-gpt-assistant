@@ -10,8 +10,9 @@ from urllib.error import URLError
 from urllib.parse import urlencode
 from urllib.parse import quote_plus
 
-API_KEY = 'lnHRLjeNSwcbPX9CqZYjFrIq'
-SECRET_KEY = 'bcjraeZGlq9Gx8yg5t8H3anfhF2ikGfM'
+#百度api
+API_KEY = ''
+SECRET_KEY = ''
 
 TEXT = ""
 
